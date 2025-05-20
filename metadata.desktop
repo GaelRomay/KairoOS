@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=OneOpen App Launcher
+Comment=Simple Plasmium App Launcher
+Encoding=UTF-8
+Type=Service
+ServiceTypes=Plasma/Applet
+X-KDE-PluginInfo-Author=Gael Romay
+X-KDE-PluginInfo-Email=oneopen@
+X-KDE-PluginInfo-Name=org.kairo.oneopen.launcher
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://oneopenos
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Category=Application Launchers
