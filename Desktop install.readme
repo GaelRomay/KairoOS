@@ -1,0 +1,11 @@
+INSTRUCTIONS FOR INSTALLATION:
+Download KairoOS 15.1 or Newer and install it on your device, make sure to have at least 1.9GB of storage free.
+Install Linux Environment with all ram all disk and Debian Bullseye
+Install Plasmium 5.1 2021 Public Release and re-start your computer.
+Open Terminal and run sudo apt-get update
+Open Terminal and run $sudo plasmium
+On the selection prompt click ONEOPEN 2021 and Reboot from Shell
+Add all the files to your KDE theme and run the following commands.
+plasmashell --replace & plasmashell --replace &
+qdbus org.kde.plasmashell /PlasmaShell org.kde.PlasmaShell.evaluateScript "$(cat kairo-panel.js)"
+
